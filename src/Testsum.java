@@ -9,7 +9,10 @@ public class Testsum {
 		
 		int c = a+b;
 		
+		int d = a*b;
+		
 		System.out.println("a와 b의 합은 : " +c);
+		System.out.println("a와 b의 곱은 : " +d);
 
 	}
 
